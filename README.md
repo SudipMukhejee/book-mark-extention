@@ -67,6 +67,11 @@ Check the remotes for this repository.
 git remote -v
 
 ```
+to show the commit logs of your repositor
+```bash
+git log
+
+```
 ## Acknowledgements
 
  - [gpt-4](https://chat.forefront.ai/)
