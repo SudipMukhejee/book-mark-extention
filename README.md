@@ -48,29 +48,48 @@ Push the committed changes in your feature branch to your remote repo.
 Track your changes.
 ```bash
   git status
-
 ```
 Clone your forked copy of the project.
 ```bash
   git clone https://github.com/<your_user_name>/shorto_url_shorter.git
-
 ```
 - where `your_user_name` is your GitHub username.
  
 Navigate to the project directory.
  ```bash
 cd shorto_url_shorter
-
 ```
 Check the remotes for this repository.
 ```bash
 git remote -v
-
 ```
 to show the commit logs of your repositor
 ```bash
 git log
-
+```
+To remove untracked files from the working tree
+```bash
+git clean
+```
+  to force the removal of untracked files
+```bash
+git clean -f
+```
+to interectivelt choose which files to remove
+```bash
+git clean -i
+```
+to remove untracked directories
+```bash
+git clean -d
+```
+to remove ignored files as well
+```bash
+git clean -x
+```
+to do a dry run and see what files would be removed without actually deleting them.
+```bash
+git clean -n
 ```
 ## Acknowledgements
 
