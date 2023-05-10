@@ -7,6 +7,7 @@ Do you often watch long videos online and want to save your progress for later? 
 - View all your bookmarks in a sidebar and click on them to jump to the corresponding position.
 - Sync your bookmarks across devices and browsers using your Google account.
 - Share your bookmarks with others via email or social media.
+
 Video Bookmark is compatible with most popular video platforms, such as YouTube, Vimeo, Netflix, and more. It is easy to use and has a sleek and intuitive interface. Whether you are watching a movie, a lecture, a tutorial, or anything else, Video Bookmark can help you enhance your viewing experience and save your time. Download Video Bookmark today and never lose track of your videos again!
 
 
