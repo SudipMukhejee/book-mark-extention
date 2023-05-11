@@ -1,0 +1,50 @@
+.bookmark {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.bookmark:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.bookmark a {
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  flex: 1;
+  margin-right: 10px;
+}
+
+.bookmark p {
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  flex: 2;
+  margin-right: 10px;
+}
+
+.bookmark button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  flex: 0;
+}
+.popup-container {
+  width: 500px;
+  height: 300px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box; */
+}
