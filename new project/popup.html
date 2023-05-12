@@ -6,9 +6,19 @@
 <body>
   <div class="popup-container">
     <h1>Video Bookmarks</h1>
-    <input type="text" id="videoUrl" placeholder="Enter video URL">
-    <input type="text" id="videoNote" placeholder="Enter note">
-    <button id="saveBtn">Save</button>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search notes">
+      <button id="searchBtn">Search</button>
+    </div>
+    <div class="input-container">
+      <input type="text" id="videoUrl" placeholder="Enter video URL">
+      <input type="text" id="videoNote" placeholder="Enter note">
+      <button id="saveBtn">Save</button>
+    </div>
+    <div class="time-container">
+      <input type="text" id="videoTime" placeholder="Enter time (hh:mm:ss)">
+      <button id="saveTimeBtn">Save Time</button>
+    </div>
     <div id="bookmarksContainer"></div>
     <div class="button-container">
       <button id="seeMoreBtn" style="display:none;">Show More</button>

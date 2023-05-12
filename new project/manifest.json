@@ -1,16 +1,15 @@
 {
-    "manifest_version": 2,
-    "name": " Bookmark Extension",
-    "version": "1.0",
-    "description": "Save and view video bookmarks",
-    "browser_action": {
-      "default_icon": "icon.png",
-      "default_popup": "popup.html",
-      "default_title": "Video Bookmark Extension"
-    },
-    "permissions": ["storage"],
-    "icons": {
-      "48": "icon.png"
-    }
+  "manifest_version": 2,
+  "name": "Only  Bookmark Extension",
+  "version": "1.0",
+  "description": "Save and view video bookmarks",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Video Bookmark Extension"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "48": "icon.png"
   }
-  
+}
