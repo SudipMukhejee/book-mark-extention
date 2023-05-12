@@ -42,9 +42,7 @@ To adds a new remote repository named origin with the URL
 ```
 Push the committed changes in your feature branch to your remote repo.
 ```bash
-  git push -u origin main 
-  or
-  git push
+git push
 ```
 Track your changes.
 ```bash
