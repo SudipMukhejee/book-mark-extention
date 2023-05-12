@@ -52,7 +52,7 @@ Track your changes.
 ```
 Clone your forked copy of the project.
 ```bash
-  git clone https://github.com/<your_user_name>/shorto_url_shorter.git
+  git clone https://github.com/<your_user_name>/url.git
 ```
 - where `your_user_name` is your GitHub username.
  
@@ -97,11 +97,11 @@ git clean -n
 - [@octokatherine](https://www.github.com/octokatherine)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-mukherjee-2751a6224/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 ## 🚀 About Me
 I'm a full stack developer...
