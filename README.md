@@ -115,7 +115,7 @@ I'm a full stack developer...
 
 ## FAQ
 
-![Alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A686%2F1*diRLm1S5hkVoh5qeArND0Q.png&tbnid=Hn2p1CCRH_aJzM&vet=12ahUKEwjj6b-Eg-_-AhUFyaACHbyCDCAQMygBegUIARC5AQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40lucasmaurer%2Fgit-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018&docid=qY91W4Ssn1zGJM&w=686&h=396&q=git%20working%20directory%20and%20staging%20area&ved=2ahUKEwjj6b-Eg-_-AhUFyaACHbyCDCAQMygBegUIARC5AQ "a title")
+![Alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A686%2F1*diRLm1S5hkVoh5qeArND0Q.png&tbnid=Hn2p1CCRH_aJzM&vet=12ahUKEwjj6b-Eg-_-AhUFyaACHbyCDCAQMygBegUIARC5AQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40lucasmaurer%2Fgit-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018&docid=qY91W4Ssn1zGJM&w=686&h=396&q=git%20working%20directory%20and%20staging%20area&ved=2ahUKEwjj6b-Eg-_-AhUFyaACHbyCDCAQMygBegUIARC5AQ"a title")
 
 - #### git working area
 
